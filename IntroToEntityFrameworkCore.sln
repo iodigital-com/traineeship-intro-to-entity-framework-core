@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToEntityFrameworkCore.Data", "IntroToEntityFrameworkCore.Data\IntroToEntityFrameworkCore.Data.csproj", "{95409A88-52DE-4D5B-9331-2A3C381205C7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToEntityFrameworkCore.Tests", "IntroToEntityFrameworkCore.Tests\IntroToEntityFrameworkCore.Tests.csproj", "{589A066A-E98C-4192-869D-387269C789EE}"
 EndProject
 Global
@@ -10,10 +8,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{95409A88-52DE-4D5B-9331-2A3C381205C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95409A88-52DE-4D5B-9331-2A3C381205C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95409A88-52DE-4D5B-9331-2A3C381205C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95409A88-52DE-4D5B-9331-2A3C381205C7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{589A066A-E98C-4192-869D-387269C789EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{589A066A-E98C-4192-869D-387269C789EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{589A066A-E98C-4192-869D-387269C789EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
